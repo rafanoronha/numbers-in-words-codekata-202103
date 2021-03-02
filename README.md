@@ -7,11 +7,16 @@ It occurs now and then in real life that people want to write about money, espec
 
 seven hundred and fourty five dollars (amount in words)
 
-## Step 1
+### Step 1
 The Kata is now to write a little converter class or function (depends on your favourite language and flavour) to convert numbers into words.
 
-## Step 2
+### Step 2
 Convert it back.
 
-## Step 3
+### Step 3
 Do all of it test driven.
+
+## Prior work
+http://codekata.com/  
+http://codekata.com/kata/codekata-how-it-started/  
+https://codingdojo.org/kata/NumbersInWords/
